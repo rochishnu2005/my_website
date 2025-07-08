@@ -7,7 +7,7 @@ html,body{
     width: 100%;
 }
 body{
-    background-image: url(house.jpg);
+    background-image: url(img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
